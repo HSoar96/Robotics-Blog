@@ -4,5 +4,5 @@ of my BSc Robotics degree at Falmouth University specifically covering
 my COMP280 and ROB210 modules.
 
 # Week 2
-## Breitenburgs
-Bbreitenburgs are.
+## Braitenbergs
+Braitenbergs are.
